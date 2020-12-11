@@ -1,5 +1,5 @@
 {
-    "name": "aloha/twilio",
+    "name": "okay/twilio",
     "description": "Twilio API for Laravel",
     "type": "library",
     "keywords": ["sms", "ivr", "laravel", "twilio"],
@@ -17,7 +17,7 @@
             "email": "stofer@okaywebdesign.com"
         }
     ],
-    "homepage":"https://github.com/aloha/laravel-twilio",
+    "homepage":"https://github.com/okay/laravel-twilio",
     "license": "MIT",
     "require": {
         "php": ">=7.2.0",
